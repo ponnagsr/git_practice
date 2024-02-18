@@ -5,3 +5,4 @@
 #this is a bug fix
 >>>>>>> Stashed changes
 #this ia a bug fix made in day -10
+#this is a new feature with minor alteration
