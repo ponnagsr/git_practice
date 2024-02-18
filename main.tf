@@ -7,3 +7,4 @@
 #this ia a bug fix made in day -10
 #this is a new feature with minor alteration
 #this is advancement of previous version 2.2
+#this feature is ready for the release
